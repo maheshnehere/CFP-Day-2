@@ -1,5 +1,6 @@
 package com.bridgelabz_empwage;
 
+
 import java.util.Random;
 public class EmployeeWage {
     Random random = new Random();
